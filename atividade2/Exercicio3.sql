@@ -79,3 +79,4 @@ WHERE tb_categorias.nome = 'Cosméticos';
 
 
 
+-- atualização
